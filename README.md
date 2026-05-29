@@ -13,7 +13,11 @@ it from a single directory.
 
 ## Usage
 
-Download the release ZIP, extract it, and run:
+Download the release ZIP from:
+
+https://github.com/win-ngs/samtools-windows-bundle/releases/tag/v1.23.1-windows-ucrt64
+
+Extract it, and run:
 
 ```powershell
 .\samtools.exe --version
