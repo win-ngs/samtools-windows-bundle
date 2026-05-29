@@ -4,6 +4,11 @@ This repository publishes a small Windows x64 bundle of `samtools.exe` copied
 from the MSYS2 UCRT64 environment, together with the runtime DLLs needed to run
 it from a single directory.
 
+This is an unofficial Windows bundle. It is not published, endorsed, or
+supported by the official Samtools/HTSlib project.
+
+Official Samtools site: https://www.htslib.org/
+
 ## Included Version
 
 - Samtools: 1.23.1
