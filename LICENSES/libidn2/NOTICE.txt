@@ -1,0 +1,4 @@
+libidn2 license files were not present in the local MSYS2 license directory.
+MSYS2 package: mingw-w64-ucrt-x86_64-libidn2 2.3.8-4
+License metadata: GPL-2.0-or-later and LGPL-3.0-or-later
+Upstream: https://www.gnu.org/software/libidn/#libidn2
